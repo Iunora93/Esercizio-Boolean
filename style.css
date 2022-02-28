@@ -1,0 +1,49 @@
+body{
+  background-image: url(background.jpg);
+  background-position: left;
+  background-repeat: no-repeat;
+background-size: 1000px;
+width: 50%;
+display: block;
+}
+
+.center{
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header h1{
+text-align: center;
+text-align: top;
+color: limegreen;
+}
+
+span{
+  color: white;
+}
+
+nav{
+  text-align: center;
+  background-color: limegreen;
+}
+
+.speciale{
+  font-size: 30px;
+}
+
+.orange{
+  background-color: orange;
+  width: 300px;
+}
+
+.limegreen{
+  background-color: green;
+  width: 800px;
+}
+
+.red{
+  background-color: red;
+  width: 150px;
+}
